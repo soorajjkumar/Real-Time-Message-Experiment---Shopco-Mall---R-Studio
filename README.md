@@ -1,4 +1,4 @@
-# Real-Time-Message-Experiment---Shopco-Mall---R-Studio
+# Real-Time-Message-Experiment---Mall Operator---R-Studio
 Real-time message: Real-time mobile message is a short text that a customer receives on their mobile phone when they are in a mall. In the experiment, a mobile message was sent to selected customers right after their first purchase in the mall.
 Experiment: As the mall operator wants to understand the role of real-time mobile messages on customer’s purchase behavior, it ran a field experiment on a group of 9032 consumers who visited the mall in the week of Oct 1, 2019. In the experiment, 9032 customers were equally divided into two halves. The first half of consumers (4516) received a real-time mobile message right after their first purchase promising 1000 loyalty points if they buy one more time from the mall on that day (irrespective of how much they buy) while the second half (4516 consumers) continued their shopping without receiving any real-time mobile message.
 Below are more details about the mall and its data.
